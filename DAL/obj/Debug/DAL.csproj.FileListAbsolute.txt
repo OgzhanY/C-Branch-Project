@@ -1,0 +1,25 @@
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\DAL\bin\Debug\DAL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\DAL\bin\Debug\DAL.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\DAL\obj\Debug\DAL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\DAL\obj\Debug\DAL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\DAL\bin\Debug\DAL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\DAL\bin\Debug\DAL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\6.Hafta\DAL\obj\Debug\DAL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\DAL\obj\Debug\DAL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\DAL\bin\Debug\DAL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\DAL\bin\Debug\DAL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Lab-4\Desktop\6.Hafta\DAL\obj\Debug\DAL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\DAL\obj\Debug\DAL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\DAL\bin\Debug\DAL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\DAL\bin\Debug\DAL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\DAL\obj\Debug\DAL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\DAL\obj\Debug\DAL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\DAL\bin\Debug\DAL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\DAL\bin\Debug\DAL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\DAL\obj\Debug\DAL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\DAL\obj\Debug\DAL.pdb

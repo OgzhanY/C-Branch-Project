@@ -1,0 +1,25 @@
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\MODEL\bin\Debug\MODEL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\MODEL\obj\Debug\MODEL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\MODEL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\MODEL\obj\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\MODEL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\MODEL\obj\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\MODEL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\MODEL\obj\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\MODEL\bin\Debug\MODEL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\MODEL\obj\Debug\MODEL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\MODEL\obj\Debug\MODEL.pdb
