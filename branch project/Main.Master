@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="Gazi.KazanMYO.SubeProje.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Admin/Css/Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Admin/Css/Bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" />
+     <link href="Admin/Css/jquery.bxslider.css" rel="stylesheet" />
+    
+   
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+       
+</head>
+<body>
+    <form id="form1" runat="server">
+        
+        <nav class="navbar navbar-inverse">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="default.aspx">Kazan MYO</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <%--<ul class="nav navbar-nav">
+        <li><a href="pagemanagement.aspx">Page Management</a></li>    
+              <li><a href="OrtamKutuphane.aspx">Ortamkütü</a></li>  
+       </ul>--%>
+        <!-- Tekrarlı ver kullanmak için repeater kullanılır -->
+        <asp:Repeater ID="rptMainMenu" runat="server">
+            <HeaderTemplate><ul class="nav navbar-nav"></HeaderTemplate>
+            <ItemTemplate><li><a href='Content.aspx?pageid=<%#Eval("PageID")%>'><%#Eval("PageName") %></a></li></ItemTemplate>
+            <FooterTemplate></ul></FooterTemplate>
+        </asp:Repeater><!--- ver tabanından PageName leri çektik --> <!-- Eval: repeater ın data source sindeki verileri çeker.-->
+        </div>
+    
+  </div><!-- /.container-fluid -->
+</nav>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <script src="Admin/Js/jquery-3.1.1.min.js"></script>
+    <!-- Jquery etiketi ekledik -->
+    <script src="Admin/Css/Bootstrap/js/bootstrap.min.js"></script>
+     <script src="Admin/Js/jquery.bxslider.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.bxslider').bxSlider();
+            });
+        </script>
+
+</body>
+</html>

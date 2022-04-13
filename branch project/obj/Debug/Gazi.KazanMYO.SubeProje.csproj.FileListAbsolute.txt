@@ -1,0 +1,365 @@
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Lab-3\Desktop\4.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\Odevler\Odev\Gazi.KazanMYO.SubeProje\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Lab-4\Desktop\6.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\Gazi.KazanMYO.SubeProje\bin\CKEditor.NET.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\CKEditor.NET.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\CKEditor.NET.pdb
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\11.Hafta ödev(slider ve ckeditor)\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\CKEditor.NET.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\CKEditor.NET.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\CKEditor.NET.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\csc.exe
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\vbc.exe
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll.config
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Gazi.KazanMYO.SubeProje.pdb
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\BLL.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\MODEL.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\DAL.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\BLL.pdb
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\MODEL.pdb
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\CKEditor.NET.pdb
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\bin\DAL.pdb
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.csprojResolveAssemblyReference.cache
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.dll
+C:\Users\E-15\Downloads\Compressed\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\Gazi.KazanMYO.SubeProje\obj\Debug\Gazi.KazanMYO.SubeProje.pdb
