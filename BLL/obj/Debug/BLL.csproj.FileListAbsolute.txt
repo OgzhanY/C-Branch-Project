@@ -1,0 +1,81 @@
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\BLL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\BLL.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\DAL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\MODEL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\DAL.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\MODEL.pdb
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\obj\Debug\BLL.dll
+C:\Users\Lab-4\Desktop\Gazi.KazanMYO.SubeProje\BLL\obj\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\DAL.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\DAL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\obj\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\5.Hafta\Gazi.KazanMYO.SubeProje\BLL\obj\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\bin\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\bin\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\bin\Debug\DAL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\bin\Debug\DAL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\obj\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\6.Hafta\BLL\obj\Debug\BLL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\bin\Debug\BLL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\bin\Debug\BLL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\bin\Debug\DAL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\bin\Debug\MODEL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\bin\Debug\DAL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\bin\Debug\MODEL.pdb
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\obj\Debug\BLL.dll
+C:\Users\Lab-4\Desktop\6.Hafta\BLL\obj\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\bin\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\bin\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\bin\Debug\DAL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\bin\Debug\DAL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\obj\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\İnternet Programcılığı 2\İnternet Programcılığı 2\7.Hafta\BLL\obj\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\bin\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\bin\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\bin\Debug\DAL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\bin\Debug\DAL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\obj\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\Odevler\internet programciliği\8.Hafta ödev\BLL\obj\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\BLL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\DAL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\MODEL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\DAL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\MODEL.pdb
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\obj\Debug\BLL.dll
+C:\Users\Ferhat\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\obj\Debug\BLL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\BLL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\BLL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\DAL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\MODEL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\DAL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\bin\Debug\MODEL.pdb
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\obj\Debug\BLL.dll
+C:\Users\E-15\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)\BLL\obj\Debug\BLL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\bin\Debug\BLL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\bin\Debug\BLL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\bin\Debug\DAL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\bin\Debug\MODEL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\bin\Debug\DAL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\bin\Debug\MODEL.pdb
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\obj\Debug\BLL.dll
+C:\Users\Gökhan\Desktop\13.Hafta ödev(İnternet programcılığı çoklu resim ekleme)V1\BLL\obj\Debug\BLL.pdb
